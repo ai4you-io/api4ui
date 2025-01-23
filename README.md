@@ -21,7 +21,7 @@ You can create an issue where you explain your idea or feature
 1. Create the issue [Open a new issue](https://github.com/ai4you-io/openedge-abl-PASOE/issues/new)
 1. Add a reproducable case
 
-If you need assistance on troubleshooting or isolating a problem, you can request a remote assistance session through our [Support](PASOE@ai4you.odoo.com) system. Remote Assistance is included in the "enterprise support" subscription.
+If you need assistance on troubleshooting or isolating a problem, you can request a remote assistance session through our [Support](mailto:PASOE@ai4you.odoo.com) system. Remote Assistance is included in the "enterprise support" subscription.
 
 ### I need a tailor-made solution
 
