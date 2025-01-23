@@ -1,7 +1,7 @@
 # OpenEdge ABL - PASOE
 OpenEdge ABL - PASOE | Uses github issues as an official bug tracker
 
-This repository is intended to support users by providing extra information and guidance about the vscode plugin [OpenEdge ABL - PASOE - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AI4YOU.openedge-abl-PASOE).
+This repository is intended to support users by providing extra information and guidance about the vscode plugin [OpenEdge ABL - PASOE - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AI4YOU.vscode-openedge-pasoe).
 
 ## In This Article
 * [When do you plan on releasing features?](#when-do-you-plan-on-releasing-features)
