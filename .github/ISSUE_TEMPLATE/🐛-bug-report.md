@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
-about: Template for BUGS.
-title: ''
+name: "\U0001F41B BUG report"
+about: Report something that isn't working
+title: "[BUG]"
 labels: bug
 assignees: KevinIlPazzo
 
@@ -12,13 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen compared to a working example.
+A clear and concise description of what you expected to happen compared to a **working** example.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
