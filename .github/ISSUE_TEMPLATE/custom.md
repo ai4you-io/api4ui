@@ -1,9 +1,9 @@
 ---
 name: Custom issue template
-about: Template for bugs or features.
+about: Template for BUGS.
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: KevinIlPazzo
 
 ---
 
