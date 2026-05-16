@@ -259,5 +259,3 @@ Change the ports in VS Code settings:
 3. Rebuild the extension if running from source: `npm run compile`.
 
 ---
-
-> For a concise quick start, see [`docs/QUICKSTART.md`](QUICKSTART.md).
