@@ -62,6 +62,64 @@ Three ways to launch it:
 
 ---
 
+## Implementation Status
+
+This extension aims to cover the full feature set of the Progress Data Administration tool. The following checklist tracks what has been implemented and what is still pending.
+
+### Data Dictionary
+
+- [x] Browse tables, fields, indexes, and sequences
+- [x] Create / edit / delete tables
+- [x] Create / edit / delete fields
+- [x] Create / edit / delete indexes
+- [x] Create / edit / delete sequences
+- [ ] Triggers (view / edit field- and table-level triggers)
+- [ ] Views
+
+### Admin
+
+- [ ] Database identification (view/edit database properties)
+- [ ] Dump definitions (`.df` schema dump)
+- [ ] Load definitions (`.df` schema load)
+- [ ] Dump incremental definitions
+- [ ] Load incremental definitions
+- [ ] Dump data (`.d` data dump per table)
+- [ ] Load data (`.d` data load per table)
+- [ ] Dump sequence values
+- [ ] Load sequence values
+- [ ] Dump security permissions
+- [ ] Load security permissions
+- [ ] Bulk dump / load (binary)
+- [ ] CDC (Change Data Capture) dump / load
+- [ ] Security — domain management
+- [ ] Security — permissions management
+- [ ] Security — encryption policy management
+- [ ] Alternate buffer pool configuration
+- [ ] Database options
+
+### Dataserver
+
+- [ ] MS SQL Server — schema pull (create OpenEdge schema from MS SQL)
+- [ ] MS SQL Server — schema migration / update
+- [ ] MS SQL Server — connect / verify connection
+- [ ] Oracle — schema pull
+- [ ] Oracle — schema migration / update
+- [ ] Oracle — connect / verify connection
+- [ ] ODBC — schema pull
+- [ ] ODBC — schema migration / update
+- [ ] Schema comparison (OpenEdge vs foreign DB)
+
+### Utilities
+
+- [ ] Quick reports (tables, fields, indexes, sequences, views, triggers, user-defined)
+- [ ] Print reports
+- [ ] Verify / validate schema
+- [ ] Update schema (after structural changes)
+- [ ] Database identification history
+- [ ] Send SQL to database
+
+---
+
 ## Troubleshooting
 
 | Symptom                          | Fix                                                                                            |
